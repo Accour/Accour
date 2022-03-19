@@ -1,0 +1,23 @@
+{
+  "name": "accour",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hi 👋, I'm Accour</h1>\r <h3 align=\"center\">A passionate frontend developer from China</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Accour/Accour.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Accour/Accour/issues"
+  },
+  "homepage": "https://github.com/Accour/Accour#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
