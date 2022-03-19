@@ -10,8 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/Accour/Accour.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
+  "author": "Accour",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Accour/Accour/issues"
